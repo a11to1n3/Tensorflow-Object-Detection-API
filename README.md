@@ -13,14 +13,14 @@ The tutorial also has a Youtube video that walks through every step of it.
 
 This Repo basically replicate the Repo of EdjieElectronics with changes where applicable:
 
-1. [Installing Anaconda, CUDA, and cuDNN](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-2. [Setting up the Object Detection directory structure and Anaconda Virtual Environment](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-3. [Gathering and labeling pictures](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-4. [Generating training data](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-5. [Creating a label map and configuring training](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-6. [Training](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-7. [Exporting the inference graph](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
-8. [Testing and using your newly trained object detection classifier](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/)
+1. [Installing Anaconda, CUDA, and cuDNN](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/softwareInstallation.md)
+2. [Setting up the Object Detection directory structure and Anaconda Virtual Environment](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/directorySetup.md)
+3. [Gathering and labeling pictures](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/imagesCapturingAndLabelling.md)
+4. [Generating training data](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/generatingTrainingData.md)
+5. [Creating a label map and configuring training](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/creatingLabelMap.md)
+6. [Training](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/training.md)
+7. [Exporting the inference graph](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/exportingInferenceGraph.md)
+8. [Testing and using your newly trained object detection classifier](https://github.com/a11to1n3/Tensorflow-Object-Detection-API/blob/master/usingTheClassifier.md)
 
 
 
